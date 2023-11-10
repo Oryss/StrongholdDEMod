@@ -1,4 +1,4 @@
-# Stronghol Zoom unlock mod
+# Stronghold: Definitive Edition Zoom unlock mod
 
 Zooming was locked on my 5120x1440 monitor, so I made a quick mod to unlock it. You can download and install it if you're interested
 
